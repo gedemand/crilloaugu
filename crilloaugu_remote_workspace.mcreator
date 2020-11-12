@@ -1,0 +1,67 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "TestOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "test_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Test",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "test"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.crilloaugu_remote_workspace.test": "Test"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "crilloaugu_remote_workspace",
+    "modName": "crilloaugu. remote workspace",
+    "version": "1.0.0",
+    "author": "Augus, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.crilloauguremoteworkspace",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}
