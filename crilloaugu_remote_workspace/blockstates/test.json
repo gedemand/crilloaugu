@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "crilloaugu_remote_workspace:block/test"
+    }
+  }
+}
